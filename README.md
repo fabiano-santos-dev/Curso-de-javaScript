@@ -2,4 +2,6 @@
 Curso de Desenvolvimento Web - Html, Css e JavaScript
 
 
-[Sobre Sentença de Código](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/FUNDAMENTOS/_01_sentenca_de_codigo.js)
+
+# FUNDAMENTOS
+[ 1° - Sobre Sentença de Código](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/FUNDAMENTOS/_01_sentenca_de_codigo.js)
