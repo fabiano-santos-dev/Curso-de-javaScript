@@ -1,6 +1,7 @@
 # Curso-de-Web
 Curso de Desenvolvimento Web - Html, Css e JavaScript
-
+<br>
+<br>
 
 
 # Fundamentos
@@ -28,4 +29,9 @@ Curso de Desenvolvimento Web - Html, Css e JavaScript
 [ 8° - Primeiro Desafio](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/FUNDAMENTOS/_08_primeiro_desafio.js)
 <br>
 <br>
-[ 9° -Segundo Desafio](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/FUNDAMENTOS/_09_segundo_desafio.js)
+[ 9° - Segundo Desafio](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/FUNDAMENTOS/_09_segundo_desafio.js)
+<br>
+<br>
+# Fundamentos JavaScript
+<br>
+<br>
