@@ -38,3 +38,6 @@ Curso de Desenvolvimento Web - Html, Css e JavaScript
 <br>
 <br>
 [ 2° - Numeros ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_02_FUNDAMENTOS_JAVASCRIPT/_02_numeros.js)
+<br>
+<br>
+[ 3° - Algumas Anomalias com números em javaScript ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_02_FUNDAMENTOS_JAVASCRIPT/_03_alguns_cuidados_numeros.js)
