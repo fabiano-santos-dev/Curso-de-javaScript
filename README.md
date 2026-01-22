@@ -41,3 +41,12 @@ Curso de Desenvolvimento Web - Html, Css e JavaScript
 <br>
 <br>
 [ 3° - Algumas Anomalias com números em javaScript ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_02_FUNDAMENTOS_JAVASCRIPT/_03_alguns_cuidados_numeros.js)
+<br>
+<br>
+[ 4° - Simplificando com Math de javaScript ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_02_FUNDAMENTOS_JAVASCRIPT/_04_math.js)
+<br>
+<br>
+[ 5° - Trabalhando com String ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_02_FUNDAMENTOS_JAVASCRIPT/_05_trabalhando_com_string.js)
+<br>
+<br>
+[ 6° - Sopbre Tamplate String ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_02_FUNDAMENTOS_JAVASCRIPT/_06_tamplateString.js)
