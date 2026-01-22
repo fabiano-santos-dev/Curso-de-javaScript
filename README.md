@@ -33,5 +33,8 @@ Curso de Desenvolvimento Web - Html, Css e JavaScript
 <br>
 <br>
 # Fundamentos JavaScript
+
+[ 1° - Tipos de Dados](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_02_FUNDAMENTOS_JAVASCRIPT/_01_tipos_de_dados.js)
 <br>
 <br>
+[ 2° - Numeros ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_02_FUNDAMENTOS_JAVASCRIPT/_02_numeros.js)
