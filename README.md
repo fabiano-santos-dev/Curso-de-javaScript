@@ -68,3 +68,6 @@ Treinamento de Desenvolvimento Web - Utilizando Html, Css e JavaScript
 <br>
 <br>
 [ 11° - Iniciando o Conceito de Função ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_02_FUNDAMENTOS_JAVASCRIPT/_11_iniciandoFuncao.js)
+<br>
+<br>
+[ 12° - Mais Conceito de Função ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_02_FUNDAMENTOS_JAVASCRIPT/_12_funcaoPasso2.js)
