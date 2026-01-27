@@ -71,3 +71,6 @@ Treinamento de Desenvolvimento Web - Utilizando Html, Css e JavaScript
 <br>
 <br>
 [ 12° - Mais Conceito de Função ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_02_FUNDAMENTOS_JAVASCRIPT/_12_funcaoPasso2.js)
+<br>
+<br>
+[ 13° - Escopo de variável declarada com var ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_02_FUNDAMENTOS_JAVASCRIPT/_13_escopo_de_var.js)
