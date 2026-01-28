@@ -64,9 +64,6 @@ Treinamento de Desenvolvimento Web - Utilizando Html, Css e JavaScript
 [ 10° - Sobre Null e Undefined ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_02_FUNDAMENTOS_JAVASCRIPT/_10_null_undefined.js)
 <br>
 <br>
-[ 10° - Sobre Null e Undefined ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_02_FUNDAMENTOS_JAVASCRIPT/_10_null_undefined.js)
-<br>
-<br>
 [ 11° - Iniciando o Conceito de Função ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_02_FUNDAMENTOS_JAVASCRIPT/_11_iniciandoFuncao.js)
 <br>
 <br>
