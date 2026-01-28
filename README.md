@@ -74,3 +74,6 @@ Treinamento de Desenvolvimento Web - Utilizando Html, Css e JavaScript
 <br>
 <br>
 [ 13° - Escopo de variável declarada com var ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_02_FUNDAMENTOS_JAVASCRIPT/_13_escopo_de_var.js)
+<br>
+<br>
+[ 14° - Escopo de variável declarada com let ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_02_FUNDAMENTOS_JAVASCRIPT/_14_escopo_de_let.js)

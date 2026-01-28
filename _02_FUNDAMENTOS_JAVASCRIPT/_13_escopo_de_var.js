@@ -11,4 +11,12 @@ function teste2(){
 }
 
 teste2();
+
 //console.log(nome);
+
+// Só repassando
+{ 
+    const n = "Teste.";
+    console.log("Ainda sim não é uma função então respeita o escopo global. ", n);
+}
+console.log(n);
