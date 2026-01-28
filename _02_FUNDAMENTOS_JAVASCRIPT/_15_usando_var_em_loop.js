@@ -11,9 +11,10 @@ console.log();
     imprimindo 11
 */
 
+console.log(j);
+
 for(let j = 0;j <= 10;j++){
     console.log(j);
 }
 // Aqui vai gerar um erro, porque vai entender que j não foi declarada.
 // o que significa que a variável j só funciona dentro do for.
-//console.log(j)
