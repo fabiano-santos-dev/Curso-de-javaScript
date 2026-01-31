@@ -83,3 +83,6 @@ Treinamento de Desenvolvimento Web - Utilizando Html, Css e JavaScript
 <br>
 <br>
 [ 17° - função versus Objeto ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_02_FUNDAMENTOS_JAVASCRIPT/_17_funcao_versus_objeto.js)
+<br>
+<br>
+[ 18° - Conceito lexico par chave Valor ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_02_FUNDAMENTOS_JAVASCRIPT/_18_par_nome_valor.js)
