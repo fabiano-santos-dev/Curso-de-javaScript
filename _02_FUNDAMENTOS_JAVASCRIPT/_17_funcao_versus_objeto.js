@@ -9,3 +9,6 @@ console.log(typeof new cliente());
 class Produto{}
 console.log(typeof produto);
 console.log(typeof new Produto)
+
+console.log(typeof console);
+console.log(typeof console.log  );
