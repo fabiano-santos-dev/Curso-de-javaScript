@@ -89,3 +89,6 @@ Treinamento de Desenvolvimento Web - Utilizando Html, Css e JavaScript
 <br>
 <br>
 [ 19° - Sobre a notação Ponto ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_02_FUNDAMENTOS_JAVASCRIPT/_19_notacao_ponto.js)
+<br>
+<br>
+[ 20° - Operadores de atribuiçãqo ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_02_FUNDAMENTOS_JAVASCRIPT/_20_operadores_atribuicao.js)
