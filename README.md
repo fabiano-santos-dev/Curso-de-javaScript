@@ -104,3 +104,6 @@ Treinamento de Desenvolvimento Web - JavaScript
 <br>
 <br>
 [ 24° - Operador Destructuring parte 4 ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_02_FUNDAMENTOS_JAVASCRIPT/_24_operador_destructuring4.js)
+<br>
+<br>
+[ 25° - Operadores Aritméticos ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_02_FUNDAMENTOS_JAVASCRIPT/_25_operadores_aritmeticos.js)
