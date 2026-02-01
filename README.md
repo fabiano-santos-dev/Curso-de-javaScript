@@ -1,5 +1,5 @@
 # Entendendo javaScript
-Treinamento de Desenvolvimento Web - Utilizando Html, Css e JavaScript
+Treinamento de Desenvolvimento Web - JavaScript
 <br>
 <br>
 
