@@ -94,7 +94,7 @@ Treinamento de Desenvolvimento Web - JavaScript
 [ 20° - Operadores de atribuição ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_02_FUNDAMENTOS_JAVASCRIPT/_20_operadores_atribuicao.js)
 <br>
 <br>
-[ 21° - Operador Destructuring parte 1 ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_02_FUNDAMENTOS_JAVASCRIPT/_21_operador_destructuring.js)
+[ 21° - Operador Destructuring parte 1 ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_02_FUNDAMENTOS_JAVASCRIPT/_21_operador_destructuring1.js)
 <br>
 <br>
 [ 22° - Operador Destructuring parte 2 ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_02_FUNDAMENTOS_JAVASCRIPT/_22_operador_destructuring2.js)
