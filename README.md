@@ -91,7 +91,16 @@ Treinamento de Desenvolvimento Web - Utilizando Html, Css e JavaScript
 [ 19° - Sobre a notação Ponto ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_02_FUNDAMENTOS_JAVASCRIPT/_19_notacao_ponto.js)
 <br>
 <br>
-[ 20° - Operadores de atribuiçãqo ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_02_FUNDAMENTOS_JAVASCRIPT/_20_operadores_atribuicao.js)
+[ 20° - Operadores de atribuição ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_02_FUNDAMENTOS_JAVASCRIPT/_20_operadores_atribuicao.js)
 <br>
 <br>
-[ 21° - Operador Destructuring ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_02_FUNDAMENTOS_JAVASCRIPT/_21_Operador_Destructuring.js)
+[ 21° - Operador Destructuring parte 1 ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_02_FUNDAMENTOS_JAVASCRIPT/_21_Operador_Destructuring.js)
+<br>
+<br>
+[ 22° - Operador Destructuring parte 2 ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_02_FUNDAMENTOS_JAVASCRIPT/_22_Operador_Destructuring2.js)
+<br>
+<br>
+[ 23° - Operador Destructuring parte 3 ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_02_FUNDAMENTOS_JAVASCRIPT/_23_Operador_Destructuring3.js)
+<br>
+<br>
+[ 24° - Operador Destructuring parte 4 ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_02_FUNDAMENTOS_JAVASCRIPT/_24_Operador_Destructuring4.js)
