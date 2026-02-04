@@ -119,3 +119,6 @@ Treinamento de Desenvolvimento Web - JavaScript
 <br>
 <br>
 [ 29° - Operadores Unários ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_02_FUNDAMENTOS_JAVASCRIPT/_27_operadores_unarios.js)
+<br>
+<br>
+[ 30° - Operadores Unários ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_02_FUNDAMENTOS_JAVASCRIPT/_30_operador_`ternario.js)
