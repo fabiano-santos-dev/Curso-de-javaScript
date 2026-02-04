@@ -109,7 +109,7 @@ Treinamento de Desenvolvimento Web - JavaScript
 [ 25° - Operadores Aritméticos ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_02_FUNDAMENTOS_JAVASCRIPT/_25_operadores_aritmeticos.js)
 <br>
 <br>
-[ 26° - Operadores Relacionais ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_02_FUNDAMENTOS_JAVASCRIPT/_26_relacionais.js)
+[ 26° - Operadores Relacionais ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_02_FUNDAMENTOS_JAVASCRIPT/_26_operadores_relacionais.js)
 <br>
 <br>
 [ 27° - Tabela Verdade ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_02_FUNDAMENTOS_JAVASCRIPT/_27_tabela_verdade.js)
