@@ -113,3 +113,6 @@ Treinamento de Desenvolvimento Web - JavaScript
 <br>
 <br>
 [ 27° - Tabela Verdade ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_02_FUNDAMENTOS_JAVASCRIPT/_27_tabela_verdade.js)
+<br>
+<br>
+[ 27° - Operadores Lógicos ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_02_FUNDAMENTOS_JAVASCRIPT/_27_logicos.js)
