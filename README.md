@@ -33,7 +33,6 @@ Treinamento de Desenvolvimento Web - JavaScript
 <br>
 <br>
 # Fundamentos JavaScript
-
 [ 1° - Tipos de Dados](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_02_FUNDAMENTOS_JAVASCRIPT/_01_tipos_de_dados.js)
 <br>
 <br>
@@ -125,3 +124,6 @@ Treinamento de Desenvolvimento Web - JavaScript
 <br>
 <br>
 [ 31° - Tratamento de Erro Try e Catch ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_02_FUNDAMENTOS_JAVASCRIPT/_31_tratamento_erro.js)
+
+# Estrutura de Controle javaScript
+[ 32° - Usando a Estrutura If / 1 ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_03_ESTRUTURAS_DE_CONTROLE/_32_estrutura_controle1.js)
