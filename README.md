@@ -122,3 +122,6 @@ Treinamento de Desenvolvimento Web - JavaScript
 <br>
 <br>
 [ 30° - Operadores Unários ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_02_FUNDAMENTOS_JAVASCRIPT/_30_operador_`ternario.js)
+<br>
+<br>
+[ 31° - Tratamento de Erro ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_02_FUNDAMENTOS_JAVASCRIPT/_31_tratamento_erro.js)
