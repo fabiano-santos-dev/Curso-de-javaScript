@@ -130,3 +130,6 @@ Treinamento de Desenvolvimento Web - JavaScript
 <br>
 <br>
 [ 34° - Usando a Estrutura If else if ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_03_ESTRUTURAS_DE_CONTROLE/_34_estrutura_if_else_if.js)
+<br>
+<br>
+[ 35° - Estrutura de controle Switch ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_03_ESTRUTURAS_DE_CONTROLE/_35_estrutura_controle_switch.js)
