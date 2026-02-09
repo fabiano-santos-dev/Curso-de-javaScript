@@ -1,8 +1,5 @@
 # Entendendo javaScript
 Treinamento de Desenvolvimento Web - JavaScript
-<br>
-<br>
-
 
 # Inicio
 [ 1° - Sobre Sentença de Código](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_01_INICIANDO_PROGRAMACAO/_01_sentenca_de_codigo.js)
@@ -126,8 +123,6 @@ Treinamento de Desenvolvimento Web - JavaScript
 [ 31° - Tratamento de Erro Try e Catch ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_02_FUNDAMENTOS_JAVASCRIPT/_31_tratamento_erro.js)
 
 # Estrutura de Controle javaScript
-<br>
-<br>
 [ 32° - Usando a Estrutura If ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_03_ESTRUTURAS_DE_CONTROLE/_32_estrutura_controle.js)
 <br>
 <br>
