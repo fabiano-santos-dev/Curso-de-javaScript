@@ -126,4 +126,9 @@ Treinamento de Desenvolvimento Web - JavaScript
 [ 31° - Tratamento de Erro Try e Catch ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_02_FUNDAMENTOS_JAVASCRIPT/_31_tratamento_erro.js)
 
 # Estrutura de Controle javaScript
+<br>
+<br>
 [ 32° - Usando a Estrutura If / 1 ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_03_ESTRUTURAS_DE_CONTROLE/_32_estrutura_controle1.js)
+<br>
+<br>
+[ 33° - Usando a Estrutura If else / 1 ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_03_ESTRUTURAS_DE_CONTROLE/_33_estrutura_if_else.js)
