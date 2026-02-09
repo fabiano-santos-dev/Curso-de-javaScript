@@ -128,7 +128,10 @@ Treinamento de Desenvolvimento Web - JavaScript
 # Estrutura de Controle javaScript
 <br>
 <br>
-[ 32° - Usando a Estrutura If / 1 ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_03_ESTRUTURAS_DE_CONTROLE/_32_estrutura_controle1.js)
+[ 32° - Usando a Estrutura If ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_03_ESTRUTURAS_DE_CONTROLE/_32_estrutura_controle.js)
 <br>
 <br>
-[ 33° - Usando a Estrutura If else / 1 ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_03_ESTRUTURAS_DE_CONTROLE/_33_estrutura_if_else.js)
+[ 33° - Usando a Estrutura If else ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_03_ESTRUTURAS_DE_CONTROLE/_33_estrutura_if_else.js)
+<br>
+<br>
+[ 34° - Usando a Estrutura If else if ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_03_ESTRUTURAS_DE_CONTROLE/_34_estrutura_if_else_if.js)
