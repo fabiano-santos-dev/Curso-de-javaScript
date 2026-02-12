@@ -133,3 +133,18 @@ Treinamento de Desenvolvimento Web - JavaScript
 <br>
 <br>
 [ 35° - Estrutura de controle Switch ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_03_ESTRUTURAS_DE_CONTROLE/_35_estrutura_controle_switch.js)
+<br>
+<br>
+[ 36° - Estrutura de Repetição While ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_03_ESTRUTURAS_DE_CONTROLE/_36_repeticaoWhile.js)
+<br>
+<br>
+[ 37° - Estrutura de Repetição Do While ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_03_ESTRUTURAS_DE_CONTROLE/_37_repeticaoDoWhile.js)
+    <br>
+    <br>
+    [ 38° - Estrutura de Repetição For ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_03_ESTRUTURAS_DE_CONTROLE/_38_repeticaoFor.js)
+    <br>
+    <br>
+    [ 39° - Estrutura de Repetição For In](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_03_ESTRUTURAS_DE_CONTROLE/_38_repeticaoFor.js)
+    <br>
+    <br>
+    [ 40° - Sobre Break e Continue ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_03_ESTRUTURAS_DE_CONTROLE/_38_repeticaoFor.js)
