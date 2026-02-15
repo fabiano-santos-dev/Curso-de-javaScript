@@ -150,7 +150,7 @@ Treinamento de Desenvolvimento Web - JavaScript
 [ 40° - Sobre Break e Continue ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_03_ESTRUTURAS_DE_CONTROLE/_38_repeticaoFor.js)
 
 # Sobre Função 
-[ 41° - Fundamentos de Função](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_01_INICIANDO_PROGRAMACAO/_42_fundamentos_funcao.js)
+[ 41° - Fundamentos de Função](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_04_FUNCOES/_41_fundamentos_funcao.js)
 <br>
 <br>
-[ 42° - Sobre Comentários](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_01_INICIANDO_PROGRAMACAO/_02_comentarios.js)
+[ 42° - Parametros e Rtornos São Opcionais](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_04_FUNCOES/_42_retorno_parametros_opcionais.js)
