@@ -139,12 +139,18 @@ Treinamento de Desenvolvimento Web - JavaScript
 <br>
 <br>
 [ 37° - Estrutura de Repetição Do While ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_03_ESTRUTURAS_DE_CONTROLE/_37_repeticaoDoWhile.js)
-    <br>
-    <br>
-    [ 38° - Estrutura de Repetição For ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_03_ESTRUTURAS_DE_CONTROLE/_38_repeticaoFor.js)
-    <br>
-    <br>
-    [ 39° - Estrutura de Repetição For In](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_03_ESTRUTURAS_DE_CONTROLE/_38_repeticaoFor.js)
-    <br>
-    <br>
-    [ 40° - Sobre Break e Continue ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_03_ESTRUTURAS_DE_CONTROLE/_38_repeticaoFor.js)
+<br>
+<br>
+[ 38° - Estrutura de Repetição For ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_03_ESTRUTURAS_DE_CONTROLE/_38_repeticaoFor.js)
+<br>
+<br>
+[ 39° - Estrutura de Repetição For In](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_03_ESTRUTURAS_DE_CONTROLE/_38_repeticaoFor.js)
+<br>
+<br>
+[ 40° - Sobre Break e Continue ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_03_ESTRUTURAS_DE_CONTROLE/_38_repeticaoFor.js)
+
+# Sobre Função 
+[ 41° - Fundamentos de Função](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_01_INICIANDO_PROGRAMACAO/_42_fundamentos_funcao.js)
+<br>
+<br>
+[ 42° - Sobre Comentários](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_01_INICIANDO_PROGRAMACAO/_02_comentarios.js)
